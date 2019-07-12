@@ -37,7 +37,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'gitexercise.apps.GitexerciseConfig'.
+    'gitexercise.apps.GitexerciseConfig', 
+    'testApp.apps.TestAppsConfig',
 ]
 
 MIDDLEWARE = [
