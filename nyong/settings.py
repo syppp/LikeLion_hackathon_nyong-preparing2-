@@ -40,7 +40,7 @@ INSTALLED_APPS = [
     'gitexercise.apps.GitexerciseConfig', 
     'testApp.apps.TestAppsConfig',
 ]
-
+#블라블라
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
